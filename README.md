@@ -83,3 +83,9 @@ To connect to your expo account, Read the [readme page](https://github.com/expo/
 ## Licence
 
 This project is available under the MIT license. See the [LICENSE](https://github.com/WataruMaeda/react-native-boilerplate/blob/main/LICENSE) file for more info.
+
+## Workflow Badges
+
+https://github.com/lai3d/react-native-boilerplate/actions/workflows/Expo%20CI/badge.svg
+
+
