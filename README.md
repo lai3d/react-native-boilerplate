@@ -86,6 +86,6 @@ This project is available under the MIT license. See the [LICENSE](https://githu
 
 ## Workflow Badges
 
-https://github.com/lai3d/react-native-boilerplate/actions/workflows/Expo%20CI/badge.svg
+![Expo CI workflow](https://github.com/lai3d/react-native-boilerplate/actions/workflows/main.yml/badge.svg)
 
 
